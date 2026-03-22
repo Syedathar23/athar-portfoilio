@@ -35,7 +35,7 @@ const projects = [
     image: "/projects/project4.png",
     tags: ["HTML,CSS", "Javascript", "PHP"],
     link: "#",
-    github: "#https://github.com/Syedathar23/Startupevents",
+    github: "https://github.com/Syedathar23/Startupevents",
   },
 ];
 
