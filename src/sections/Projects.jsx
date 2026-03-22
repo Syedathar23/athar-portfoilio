@@ -5,7 +5,7 @@ const projects = [
     title: "E-Commerce Platform",
     description:
       "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
-    image: "/projects/project1.png",
+    image: "../assets/ecommerce.png",
     tags: ["React", "PostrgreSQL", "NodeJS","ExpressJs","Stripe"],
     link: "#",
     github: "https://github.com/Syedathar23/project1",
@@ -14,7 +14,7 @@ const projects = [
     title: "Kisan Mithar",
     description:
       "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
-    image: "/projects/project2.png",
+    image: "../assets/kissan.png",
     tags: ["React", "MongoDB", "Tailwind","NodeJS","ExpressJS"],
     link: "#",
     github: "https://github.com/vishnuvalmiki6302/KMC",
@@ -23,7 +23,7 @@ const projects = [
     title: "Core X",
     description:
       "An intelligent writing tool powered by GPT-4, helping users create better content faster.",
-    image: "/projects/project3.png",
+    image: "../assets/corex.png",
     tags: ["React", "MongoDB", "Tailwind","NodeJS","ExpressJS"],
     link: "#",
     github: "https://github.com/vishnuvalmiki6302/CoreX",
@@ -32,7 +32,7 @@ const projects = [
     title: "Startup Events",
     description:
       "A collaborative workspace for teams with real-time updates, task tracking, and integrations.",
-    image: "/projects/project4.png",
+    image: "../assets/startup.png",
     tags: ["HTML,CSS", "Javascript", "PHP"],
     link: "#",
     github: "https://github.com/Syedathar23/Startupevents",
