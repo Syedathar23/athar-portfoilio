@@ -17,7 +17,6 @@ import {
   SiPostgresql,
   SiGraphql,
   SiHtml5,
-  SiCss3,
   SiPostman
 } from "react-icons/si";
 
