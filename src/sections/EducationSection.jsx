@@ -160,7 +160,7 @@ const EducationCard = ({ item, isLeft }) => {
 
 export default function EducationSection() {
   return (
-    <section
+    <section id="education"
       className="relative min-h-screen py-20 px-4 overflow-hidden bg-secondary/5"
       // style={{ background: "" }}
     >
