@@ -116,7 +116,7 @@ export const About = () => {
                 <p className="text-[10px] text-muted-foreground font-bold uppercase tracking-widest">Years Exp</p>
               </div>
               <div>
-                <p className="text-3xl font-black text-secondary-foreground tracking-tighter">15+</p>
+                <p className="text-3xl font-black text-secondary-foreground tracking-tighter">5+</p>
                 <p className="text-[10px] text-muted-foreground font-bold uppercase tracking-widest">Projects Done</p>
               </div>
               <div>
