@@ -8,7 +8,7 @@ const projects = [
   {
     title: "E-Commerce Platform",
     description:
-      "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
+      "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
     image: ecommerce,
     tags: ["React", "PostrgreSQL", "NodeJS","ExpressJs","Stripe"],
     link: "#",
@@ -17,7 +17,7 @@ const projects = [
   {
     title: "Kisan Mithar",
     description:
-      "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
+      "An agriculture advisory platform that processes soil data, generates tailored suggestions, and streamlines information delivery through an intuitive user interface.",
     image: kissan,
     tags: ["React", "MongoDB", "Tailwind","NodeJS","ExpressJS"],
     link: "#",
@@ -26,7 +26,7 @@ const projects = [
   {
     title: "Core X",
     description:
-      "An intelligent writing tool powered by GPT-4, helping users create better content faster.",
+      "A Gym oriented project for the gym members to access thier data and slots and stay updated with every event.",
     image: corex,
     tags: ["React", "MongoDB", "Tailwind","NodeJS","ExpressJS"],
     link: "#",
@@ -35,7 +35,7 @@ const projects = [
   {
     title: "Startup Events",
     description:
-      "A collaborative workspace for teams with real-time updates, task tracking, and integrations.",
+      "A platform for all investors as well as startup founders to connect and share their ideas and host events.",
     image: startup,
     tags: ["HTML,CSS", "Javascript", "PHP"],
     link: "#",
