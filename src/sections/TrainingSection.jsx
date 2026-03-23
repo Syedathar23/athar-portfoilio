@@ -6,7 +6,7 @@ const certificates = [
   {
     title: 'Logic Building – Programming and Data Structures ',
     provider: 'Lovely Professional University',
-    period: 'Jun – Jul 2025',
+    period: 'June 2025 - July 2025',
     desc: 'Solved real-world problems using structured methodologies, optimized coding techniques, and algorithmic thinking, technical proficiency.',
     tags: ['C++', 'Dsa', 'Leetcode'],
     certificate: training// Replace with your image path e.g: '/certs/android.jpg'
