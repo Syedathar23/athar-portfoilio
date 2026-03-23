@@ -22,15 +22,9 @@ const certifications = [
 const achievements = [
   {
     stat: '100+',
-    title: 'Problems — Code 360 by Coding Ninjas',
-    desc: 'Strengthened algorithmic problem-solving',
-    link: '#',
-  },
-  {
-    stat: '90+',
     title: 'Algorithmic Problems (Multi-platform)',
     desc: 'DSA, complexity & analytical thinking',
-    link: '#',
+    link: 'https://leetcode.com/u/Athar23m/',
   },
 ];
 
