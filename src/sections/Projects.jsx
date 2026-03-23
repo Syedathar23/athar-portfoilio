@@ -1,6 +1,6 @@
 import { ArrowUpRight, Github } from "lucide-react";
 import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
-import kissan from '../assets/kissan.png';
+import kissan from '../assets/kissan.jpeg';
 import ecommerce from '../assets/ecommerce.png';
 import corex from '../assets/corex.png';
 import startup from '../assets/startup.png';
